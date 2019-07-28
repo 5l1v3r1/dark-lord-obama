@@ -1,8 +1,12 @@
+![](https://xringarchery.files.wordpress.com/2019/07/obama-sith-lord.jpg)
+
 # Dark Lord Obama - Undetectable Pythonic Payload Generator
 
 Chang Tan Lister
 Lister Unlimited Cybersecurity Solutions, LLC.
 changtan@listerunlimited.com
+
+![](https://xringarchery.files.wordpress.com/2019/07/a_undetectable_payload1.png)
 
 DLO generates a Pythonic reverse shell that as of July 29th, 2019, is undetectable on VirusTotal. It combines multiple won't-to-be-disclosed techniques (undiscloseable in detail) including but not limited to:
 
@@ -11,7 +15,11 @@ DLO generates a Pythonic reverse shell that as of July 29th, 2019, is undetectab
 3. Base64 Encoding - It was a necessity
 4. Inline Python exec() functions, C asm() functions (will be added soon), Java/Jython, Cython, Ctypes
 
+![](https://xringarchery.files.wordpress.com/2019/07/a_undetectable_payload2.png)
+
 # Current usage
+
+![](https://xringarchery.files.wordpress.com/2019/07/a_undetectable_payload5.png)
 
 Currently it only works on targets that run Python. A cross-compilable and transpilable edition is in the works after DEFCON and after I pass the OSCP.
 
